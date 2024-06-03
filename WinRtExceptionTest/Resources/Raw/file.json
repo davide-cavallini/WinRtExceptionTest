@@ -1,0 +1,55 @@
+﻿{
+  "Containers": [
+    {
+      "StartX": 15,
+      "StartY": 0,
+      "SizeX": 6,
+      "SizeY": 6,
+      "BackgroundColor": "#B8B8D1"
+    },
+    {
+      "StartX": 15,
+      "StartY": 6,
+      "SizeX": 6,
+      "SizeY": 4,
+      "BackgroundColor": "#5B5F97"
+    },
+    {
+      "StartX": 15,
+      "StartY": 10,
+      "SizeX": 6,
+      "SizeY": 1,
+      "BackgroundColor": "#FFC145"
+    },
+    {
+      "StartX": 0,
+      "StartY": 0,
+      "SizeX": 3,
+      "SizeY": 11,
+      "BackgroundColor": "#FFFFFB"
+    },
+    {
+      "StartX": 3,
+      "StartY": 0,
+      "SizeX": 9,
+      "SizeY": 11,
+      "BackgroundColor": "#FF6B6C"
+    },
+    {
+      "StartX": 12,
+      "StartY": 0,
+      "SizeX": 3,
+      "SizeY": 9,
+      "BackgroundColor": "#B892FF"
+    },
+    {
+      "StartX": 12,
+      "StartY": 9,
+      "SizeX": 3,
+      "SizeY": 2,
+      "BackgroundColor": "#6E44FF"
+    }
+  ],
+  "ColumnsCount": 21,
+  "CellAspectRatio": "16:8"
+}
